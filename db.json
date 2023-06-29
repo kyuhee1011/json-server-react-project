@@ -1,0 +1,46 @@
+{
+  "desserts": [
+    {
+      "id": 1,
+      "name": "Dalgona (Korean sugar candy)",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Dalgona.jpg/220px-Dalgona.jpg",
+      "description": "Sweet Sugar Candy with fun shape",
+      "favorite": true
+    },
+    {
+      "id": 2,
+      "name": "Korean Fish Shaped Bread (Bungeoppang)",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Boong_o_bbang.jpg/220px-Boong_o_bbang.jpg",
+      "description": "Bungeoppang is a fish-shaped bread with sweetened red bean filling.",
+      "favorite": true
+    },
+    {
+      "id": 3,
+      "name": "Korean Sweet Pancake (Hotteok)",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Hotteok.jpg/220px-Hotteok.jpg",
+      "description": "Bungeoppang is a fish-shaped bread with sweetened red bean filling.",
+      "favorite": true
+    },
+    {
+      "id": 4,
+      "name": "Korean rice cake dessert",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Tteok.jpg",
+      "description": "Garae-tteok is a rice cake made with Korean rice, which is long and thin in a round shape. Gara-tteok can be found in Korean rice cake shops. However, if there is only a Korean market, you can use small rice cakes called tteok-bokki (hot and spicy rice cake) rice cakes.",
+      "favorite": true
+    },
+    {
+      "name": "Lemon Lush",
+      "image": "https://www.southernliving.com/thmb/z706skTv8rLcnFwyTEnMzr_H5zQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Southern-Living_27364_SR_Lemon-Lush_13190-fd96c709fc2946a7aeb5c869f9ad470e.jpg",
+      "description": "Lemon lush is an old-school, no-bake layered dessert that sits on a press-in crumb crust and is ...\n",
+      "id": 5,
+      "favorite": true
+    },
+    {
+      "name": "Mini Cheesecake",
+      "image": "https://diycandy.com/wp-content/uploads/2022/07/This-Mini-Cheesecake-Recipe-is-Easy-Delicious-720x1080.jpg.webp",
+      "description": "Want to make a small dessert that's going to be a hit? This mini cheesecake recipe is perfect - easy ...\n",
+      "id": 6,
+      "favorite": true
+    }
+  ]
+}
